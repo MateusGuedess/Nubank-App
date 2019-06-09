@@ -10,7 +10,6 @@
   <a href="https://github.com/MateusGuedess/Nubank-App">
    <img src="./appHome.gif" alt="GIF do APP" />
   </a>
-  <img src="./appHome.gif" alt="GIF do APP" />
 
   <h3 align="center">Nubank App</h3>
 </p>
@@ -27,7 +26,6 @@ Projeto feito durante o tutorial do Diego da Rocktseat.
   <a href="https://www.youtube.com/watch?v=DDm0M_rZLJo">
     <img src="https://s3-sa-east-1.amazonaws.com/rocketseat-cdn/rocketseat_logo_roxa.png" alt="Logo">
   </a>
-  <img src="./appHome.gif" alt="GIF do APP" />
 
   <h3 align="center">Template Rocketseat Basic</h3>
 </p>

@@ -56,4 +56,4 @@ buck-out/
 *.jsbundle
 
 # History
-history/
+.history/
