@@ -10,6 +10,7 @@
   <a href="https://github.com/MateusGuedess/Nubank-App">
    <img src="./appHome.gif" alt="GIF do APP" />
   </a>
+  <img src="./appHome.gif" alt="GIF do APP" />
 
   <h3 align="center">Nubank App</h3>
 </p>
